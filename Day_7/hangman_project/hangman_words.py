@@ -1,0 +1,1 @@
+word_list= ["apple","ball", "cat", "dog", "egg", "fish", "girl", "hat", "ink", "jug", "kite", "lion", "Man", "nest"]
